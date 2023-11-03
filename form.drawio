@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T02:28:18.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="s3qdbQjITz4YcStSnHQm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T02:50:56.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="i7zjbpsSmKe5vo-XZ_f4" version="22.0.8" type="github">
   <diagram name="第 1 页" id="u83hLH0zkRCwXxb0CGhH">
-    <mxGraphModel dx="4310" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="4310" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,60 @@
         </mxCell>
         <mxCell id="XgqZpSQLJunnmOZwg-OT-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1060" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="1130" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-26" value="设置器面板" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1532.5" y="1180" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-27" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=west;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="165" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-29" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=west;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="235" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-30" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=west;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="305" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-31" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=west;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="375" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-32" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=west;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="925" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-36" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=west;strokeWidth=3;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="995" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-37" value="大纲树" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-43" value="组件库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="220" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-44" value="数据源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="290" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-45" value="源码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-46" value="schema" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="910" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-47" value="文档" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="980" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-48" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="885" y="1130" width="20" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-49" value="画布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="832.5" y="1180" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-51" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="812.5" width="20" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XgqZpSQLJunnmOZwg-OT-53" value="工具栏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#2e3133;fontStyle=1;horizontal=1;fontFamily=Helvetica;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-50" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
