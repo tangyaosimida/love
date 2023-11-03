@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T06:54:46.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="pTLbx5kC5Ra73qH0Y6FG" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T06:55:31.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aeT58bR3g57Z3LHr_TYA" version="22.0.8" type="github">
   <diagram name="第 1 页" id="EbCufaACa-qsCbJzEI26">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -142,19 +142,19 @@
         <mxCell id="P4328gNRC3iuh4RSjTOz-12" value="产品" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=50;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="101" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AK-QcL9VzSAS4IooRfFY-5" value="可视化表单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
+        <mxCell id="AK-QcL9VzSAS4IooRfFY-5" value="可视化表单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=2" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
           <mxGeometry x="90" y="29" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AK-QcL9VzSAS4IooRfFY-6" value="可视化表格" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
+        <mxCell id="AK-QcL9VzSAS4IooRfFY-6" value="可视化表格" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=2" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
           <mxGeometry x="210" y="29" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AK-QcL9VzSAS4IooRfFY-7" value="可视化大屏" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=1;" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
+        <mxCell id="AK-QcL9VzSAS4IooRfFY-7" value="可视化大屏" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
           <mxGeometry x="330" y="29" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AK-QcL9VzSAS4IooRfFY-8" value="可视化流程" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
+        <mxCell id="AK-QcL9VzSAS4IooRfFY-8" value="可视化流程" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=2" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
           <mxGeometry x="450" y="29" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AK-QcL9VzSAS4IooRfFY-9" value="......" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
+        <mxCell id="AK-QcL9VzSAS4IooRfFY-9" value="......" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;shadow=1;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="P4328gNRC3iuh4RSjTOz-12">
           <mxGeometry x="560" y="29" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AK-QcL9VzSAS4IooRfFY-1" value="支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2;shadow=0;" vertex="1" parent="1">
