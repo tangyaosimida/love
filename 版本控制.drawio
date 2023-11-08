@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T02:45:26.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.0.8" etag="_TM6E4mCOOR_EYK1rx37" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T02:51:46.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o_1jsajINYm1nv2w4mJo" version="22.0.8" type="github">
   <diagram name="第 1 页" id="jBa_yqTtmF8e0QEQoNPv">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n1haGwbEq91e9xY3tq3t-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新建迭代&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1haGwbEq91e9xY3tq3t-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;完成开发&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1haGwbEq91e9xY3tq3t-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品验收&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1haGwbEq91e9xY3tq3t-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;测试验收&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1haGwbEq91e9xY3tq3t-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;正式验收&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1haGwbEq91e9xY3tq3t-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;完成迭代&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n1haGwbEq91e9xY3tq3t-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仿真验收&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
