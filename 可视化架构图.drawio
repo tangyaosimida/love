@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T03:10:47.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FlG2m5N5QtCSbsWIU3l3" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T03:11:33.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BUqtT9z0q3sgkiQZeaRr" version="22.0.8" type="github">
   <diagram name="第 1 页" id="EbCufaACa-qsCbJzEI26">
     <mxGraphModel dx="1750" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -238,16 +238,16 @@
         <mxCell id="AK-QcL9VzSAS4IooRfFY-22" value="支撑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=2;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="583.5" y="240" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kvLceuWHA4j72FZDqvv_-11" value="产品" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=50;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="kvLceuWHA4j72FZDqvv_-11" value="产品" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=50;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;rounded=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="122" width="720" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="kvLceuWHA4j72FZDqvv_-12" value="可视化表单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=2;fontSize=14;" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
+        <mxCell id="kvLceuWHA4j72FZDqvv_-12" value="可视化表单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=3;fontSize=14;fontColor=#333333;" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
           <mxGeometry x="80" y="30" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kvLceuWHA4j72FZDqvv_-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;可视化表格&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=2" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
+        <mxCell id="kvLceuWHA4j72FZDqvv_-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;可视化表格&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;rounded=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=3;fontColor=#333333;" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
           <mxGeometry x="240" y="30" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kvLceuWHA4j72FZDqvv_-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;可视化大屏&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=2" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
+        <mxCell id="kvLceuWHA4j72FZDqvv_-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;可视化大屏&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=3" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
           <mxGeometry x="400" y="30" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kvLceuWHA4j72FZDqvv_-16" value="......" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;shadow=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="kvLceuWHA4j72FZDqvv_-11">
