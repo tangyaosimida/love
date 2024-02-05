@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:21:54.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="J2ZzBqdLZ7v7bEnUg-6N" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:29:28.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="G-9vEsacXlyia0ZEQCzc" version="23.1.1" type="github">
   <diagram name="第 1 页" id="3ZV7wntNbG_WtyQY0T7i">
     <mxGraphModel dx="1147" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,13 +130,13 @@
         <mxCell id="LpZe3cvflJbKS4FKR0I8-118" value="lowcode" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="410" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-119" value="mbox" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-119" value="ngnix" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="335" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-120" value="mbox" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-120" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-121" value="mbox" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-121" value="jenkins" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="360" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-122" value="yao" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
