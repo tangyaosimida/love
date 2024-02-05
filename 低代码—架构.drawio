@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:18:53.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EL9Yz3NuhEDdjgGcQokI" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:40:02.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="txqg7Uh-uAxkCmSiOUZO" version="23.1.1" type="github">
   <diagram name="第 1 页" id="FYaY93_kECnBv3qDTOOK">
     <mxGraphModel dx="1354" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,15 +53,32 @@
           <mxGeometry x="640" y="680" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-Rb-8ywxMS3bpJXiGhbe-30" value="Zebras Cli" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="500" width="160" height="90" as="geometry">
+          <mxGeometry x="180" y="500" width="160" height="120" as="geometry">
             <mxRectangle x="160" y="570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-32" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-30">
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-31" value="物料模板" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-30">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-33" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-30">
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-32" value="物料开发" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-30">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-33" value="物料部署" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-30">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-34" value="Zebras 中台" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="160" height="120" as="geometry">
+            <mxRectangle x="160" y="570" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-35" value="可视化子应用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-34">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-36" value="物料市场" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-34">
+          <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-37" value="物料部署" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Rb-8ywxMS3bpJXiGhbe-34">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
