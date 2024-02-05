@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:45:21.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mHvp1kkwQ47kHlHFAsys" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:51:02.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZqXXKNB-HBnhhE1JdxfK" version="23.1.1" type="github">
   <diagram name="第 1 页" id="3ZV7wntNbG_WtyQY0T7i">
     <mxGraphModel dx="989" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="850" width="700" height="600" as="geometry" />
-        </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-40" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="190" y="750" width="20" height="31" as="geometry" />
         </mxCell>
@@ -88,31 +85,31 @@
         <mxCell id="LpZe3cvflJbKS4FKR0I8-98" value="vite" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="222" y="320" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-109" value="axios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="435" width="70" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-108" value="lowcode engine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="410" width="70" height="50" as="geometry" />
+          <mxGeometry x="560" y="400" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-109" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="70" height="50" as="geometry" />
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-110" value="react-query" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="450" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-110" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="460" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-111" value="redux" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="430" width="70" height="50" as="geometry" />
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-111" value="..." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-112" value="mbox" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="385" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-113" value="amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="385" width="70" height="50" as="geometry" />
+          <mxGeometry x="630" y="380" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-114" value="yao" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="70" height="50" as="geometry" />
+          <mxGeometry x="570" y="360" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-113" value="amis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-115" value="react-dnd" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="340" width="70" height="50" as="geometry" />
+          <mxGeometry x="550" y="320" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LpZe3cvflJbKS4FKR0I8-116" value="material ui" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-116" value="redux" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="335" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-117" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
@@ -144,10 +141,10 @@
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-124" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="780" as="sourcePoint" />
-            <mxPoint x="580" y="480" as="targetPoint" />
+            <mxPoint x="590" y="781" as="sourcePoint" />
+            <mxPoint x="570" y="481" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="580" />
+              <mxPoint x="540" y="581" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,6 +162,9 @@
         </mxCell>
         <mxCell id="LpZe3cvflJbKS4FKR0I8-132" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="300" y="746" width="20" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="LpZe3cvflJbKS4FKR0I8-133" value="react-query" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
