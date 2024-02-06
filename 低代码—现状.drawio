@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T06:56:07.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Zf9k2dfVPTI-G8A4mE20" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T07:00:22.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="cRCTfhC6rK9ngQ0iSvT6" version="23.1.1" type="github">
   <diagram name="第 1 页" id="3ZV7wntNbG_WtyQY0T7i">
     <mxGraphModel dx="1687" dy="-277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,8 +311,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNSbjpsnfyg-yDGCczbg-6" value="&lt;h1&gt;Zebras&lt;/h1&gt;&lt;p&gt;企业级微前端解决方案，高效团队协作方案，高效项目部署运维方案&lt;/p&gt;&lt;p&gt;开箱即用，配套项目最佳实践方案：&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1200" width="317" height="170" as="geometry" />
+        <mxCell id="CNSbjpsnfyg-yDGCczbg-6" value="&lt;h1&gt;Zebras&lt;/h1&gt;&lt;p&gt;企业级微前端解决方案，高效团队协作方案，高效项目部署运维方案&lt;/p&gt;&lt;p&gt;开箱即用，配套项目最佳实践方案：权限、状态、请求、国际化、主题、多页签、数据预加载...&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1220" width="320" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
