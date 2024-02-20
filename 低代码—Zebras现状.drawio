@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:53:22.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VyTYDLXh9gYSnQ39ourq" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T06:54:02.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HCaUxI-VyRV-6qV7YhSK" version="23.1.5" type="github">
   <diagram name="第 1 页" id="A9u1moT_-59VrfuG6NG2">
     <mxGraphModel dx="1103" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="8Aqh-fzVSZ26x4WflIr_-26" value="������&amp;nbsp; 构建前端生态" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;shadow=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
           <mxGeometry x="11" y="360" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8Aqh-fzVSZ26x4WflIr_-25" value="������&amp;nbsp; 确保大型项目落地实施" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;shadow=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
-          <mxGeometry x="11" y="31" width="190" height="30" as="geometry" />
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-25" value="&amp;nbsp;✔ 确保大型项目落地实施" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;shadow=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="31" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Aqh-fzVSZ26x4WflIr_-20" value="&amp;nbsp;✔ 提升开发效率" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;shadow=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
           <mxGeometry x="11" y="256" width="130" height="30" as="geometry" />
