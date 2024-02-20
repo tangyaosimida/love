@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T01:30:46.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ogzuPTbj7tkZmrlZl3gZ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T01:32:24.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GpnvzKoycMXwOMwCrhxU" version="23.1.5" type="github">
   <diagram name="第 1 页" id="FYaY93_kECnBv3qDTOOK">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,10 +71,10 @@
             <mxRectangle x="160" y="570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-35" value="物料市场" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-35" value="物料市场模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-36" value="子应用（可视化）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-36" value="子应用（可视化子应用）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Rb-8ywxMS3bpJXiGhbe-37" value="设计器集成" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
