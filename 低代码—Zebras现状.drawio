@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:14:58.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="w5Bu_sN2_Y9uDj6-o-qg" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T06:15:16.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0_6J072Oo0Sf8CswKfzJ" version="23.1.5" type="github">
   <diagram name="第 1 页" id="A9u1moT_-59VrfuG6NG2">
     <mxGraphModel dx="941" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,10 +62,10 @@
           <mxGeometry x="11" y="183" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Aqh-fzVSZ26x4WflIr_-21" value="✔&amp;nbsp; 持续开发、持续部署" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
-          <mxGeometry x="11" y="220" width="170" height="30" as="geometry" />
+          <mxGeometry x="11" y="219" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Aqh-fzVSZ26x4WflIr_-22" value="✔&amp;nbsp; 增量开发、增量部署" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
-          <mxGeometry x="11" y="250" width="170" height="30" as="geometry" />
+          <mxGeometry x="11" y="252" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Aqh-fzVSZ26x4WflIr_-23" value="✔&amp;nbsp; 提升系统稳定性" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
           <mxGeometry x="11" y="290" width="140" height="30" as="geometry" />
