@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T03:24:09.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="cNDuvoHJUKzZD3vszZnd" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T03:41:21.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="15q6wJSTnwlukGRswN9K" version="23.1.5" type="github">
   <diagram name="第 1 页" id="A9u1moT_-59VrfuG6NG2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-11" value="Zebras功能" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="240" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-12" value="降本增效" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="181" width="236" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-14" value="✔&amp;nbsp; 降低沟通成本" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="27" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-17" value="✔&amp;nbsp; 提升代码安全性" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="57" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-18" value="✔&amp;nbsp; 提升项目搭建效率" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="87" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-19" value="✔&amp;nbsp; 提升开发效率" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="117" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-20" value="✔&amp;nbsp; 提升代码复用率" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="147" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-21" value="✔&amp;nbsp; 持续开发、持续部署" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="177" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-22" value="✔&amp;nbsp; 增量开发、增量部署" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="207" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-23" value="✔&amp;nbsp; 提升系统稳定性" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="237" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-24" value="✔&amp;nbsp; 提升运维效率" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="267" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-25" value="✔&amp;nbsp; 微前端架构，确保大型项目落地实施" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="289" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Aqh-fzVSZ26x4WflIr_-26" value="✔&amp;nbsp; 构建前端生态" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8Aqh-fzVSZ26x4WflIr_-12">
+          <mxGeometry x="6" y="319" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
