@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T01:45:13.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="A8SFqGk4o63iTxrbHoKa" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T01:51:45.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7X3F2sP2ET0cmSmVQsaM" version="23.1.5" type="github">
   <diagram name="第 1 页" id="FYaY93_kECnBv3qDTOOK">
     <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
             <mxRectangle x="160" y="570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-35" value="物料市场" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
+        <mxCell id="-Rb-8ywxMS3bpJXiGhbe-35" value="物料市场（检索、预览、调试...）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Rb-8ywxMS3bpJXiGhbe-36" value="可视化子应用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="-Rb-8ywxMS3bpJXiGhbe-34" vertex="1">
@@ -89,18 +89,18 @@
         <mxCell id="-Rb-8ywxMS3bpJXiGhbe-44" value="基础组件 / 业务组件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-2" value="Zebras 中台" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-2" value="文档" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="540" width="160" height="120" as="geometry">
             <mxRectangle x="160" y="570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-3" value="物料市场" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Svt1MzAUU_VGe3PN_ZE4-2">
+        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-3" value="面向物料开发者" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Svt1MzAUU_VGe3PN_ZE4-2">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-4" value="可视化子应用" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Svt1MzAUU_VGe3PN_ZE4-2">
+        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-4" value="面向应用开发者" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Svt1MzAUU_VGe3PN_ZE4-2">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-5" value="设计器集成" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Svt1MzAUU_VGe3PN_ZE4-2">
+        <mxCell id="Svt1MzAUU_VGe3PN_ZE4-5" value="面向产品、UI、项目经理..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Svt1MzAUU_VGe3PN_ZE4-2">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
