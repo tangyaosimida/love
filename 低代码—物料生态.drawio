@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T07:48:14.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ljSNV7DiQlLqAGRJEuZ1" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T07:51:31.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="w9GyHH4T3eB-ATE5NnXx" version="23.1.5" type="github">
   <diagram name="第 1 页" id="bGJNGrRy-MdI9whODqqo">
     <mxGraphModel dx="1195" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,9 @@
             <mxPoint x="426.5" y="377.5" as="sourcePoint" />
             <mxPoint x="330" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CJP05kXUEJSl1xC4KEPV-30" value="&lt;h1&gt;可视化项目搭建&lt;/h1&gt;&lt;p&gt;以数字工程所为例，可通过可视化方式对已有应用进行组装完成项目搭建&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="119" y="80" width="270" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
