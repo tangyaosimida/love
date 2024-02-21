@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T08:17:17.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="K1MPfRrjWyxToXsti6wK" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T08:19:05.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aMmAXDZXlsoXtwOXkrUi" version="23.1.5" type="github">
   <diagram name="第 1 页" id="CUIfbz3CLsCVGXmxVW59">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z0QwcIs4Sw965_IRnIzo-2" value="&lt;h1&gt;代码复用率低&lt;/h1&gt;&lt;p&gt;React 选型碎片化、代码风格不一致、文档缺失&lt;/p&gt;&lt;p&gt;现存资源不共享，对用户整体呈现黑盒模式&lt;/p&gt;&lt;p&gt;可视化程度有限，当前可实现应用级复用&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z0QwcIs4Sw965_IRnIzo-2" value="&lt;h1&gt;代码复用率低&lt;/h1&gt;&lt;p&gt;React 选型碎片化、代码风格不一致、文档缺失&lt;/p&gt;&lt;p&gt;现存资源不共享，对用户整体呈现黑盒模式&lt;/p&gt;&lt;p&gt;可视化程度有限，当前可实现应用级复用&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QwcIs4Sw965_IRnIzo-3" value="选型一致" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Z0QwcIs4Sw965_IRnIzo-3" value="选型一致" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#E51400;fontStyle=1;fontSize=14;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QwcIs4Sw965_IRnIzo-4" value="资源共享" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Z0QwcIs4Sw965_IRnIzo-4" value="资源共享" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#E51400;fontStyle=1;fontSize=14;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z0QwcIs4Sw965_IRnIzo-5" value="代码复用" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Z0QwcIs4Sw965_IRnIzo-5" value="代码复用" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="180" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
