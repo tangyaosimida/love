@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T03:23:28.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SXCfsXhvl0lAdFZVaV-H" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T03:25:59.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="BlK1-ANqhJQBwyNc10C3" version="23.1.5" type="github">
   <diagram name="第 1 页" id="ETYZYgl428a3MaDztlxT">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gCVO3PJLOJHeOizx89BT-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#B3B3B3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="317" width="280" height="263" as="geometry" />
+        </mxCell>
         <mxCell id="gCVO3PJLOJHeOizx89BT-1" value="&lt;h1&gt;用户需求&lt;/h1&gt;&lt;div&gt;参考“马斯洛”人类需求层次理论，项目需求伴随技术快速的迭代更新也在向我们提出更高层次的要求。我们要好但还需要更好。&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="350" height="100" as="geometry" />
         </mxCell>
@@ -42,9 +45,6 @@
         </mxCell>
         <mxCell id="gCVO3PJLOJHeOizx89BT-29" value="自我实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#333333;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="480" y="377" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
