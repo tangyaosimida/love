@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T00:51:20.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bq16zWlqZFt55CE0uG2s" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T00:55:45.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="myiYP9youudIfqJUxxL5" version="23.1.5" type="github">
   <diagram name="第 1 页" id="_P4C-NIC0c6lGI55AIVs">
-    <mxGraphModel dx="1325" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1799" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,8 +187,8 @@
         <mxCell id="URCNevdXFKQMGU3Cfvzh-101" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="590" y="190" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URCNevdXFKQMGU3Cfvzh-103" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="502" width="30" height="60" as="geometry" />
+        <mxCell id="URCNevdXFKQMGU3Cfvzh-103" value="GIS组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="497" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="URCNevdXFKQMGU3Cfvzh-110" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;direction=south;rotation=0;fillColor=#fa6800;fontColor=#333333;strokeColor=#C73500;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="119" y="492" width="62.5" height="60" as="geometry" />
@@ -208,14 +208,26 @@
         <mxCell id="URCNevdXFKQMGU3Cfvzh-116" value="组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="108" y="728" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URCNevdXFKQMGU3Cfvzh-117" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" parent="1" vertex="1">
+        <mxCell id="URCNevdXFKQMGU3Cfvzh-117" value="BIM组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="628" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="URCNevdXFKQMGU3Cfvzh-118" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" parent="1" vertex="1">
+        <mxCell id="URCNevdXFKQMGU3Cfvzh-118" value="Zebras组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="734" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="anlMMiIjX-qQsy4AaUph-1" value="..." style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="555" y="240" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="anlMMiIjX-qQsy4AaUph-4" value="UE组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="562" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="anlMMiIjX-qQsy4AaUph-5" value="产品组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="656" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="anlMMiIjX-qQsy4AaUph-6" value="UI组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="762" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="anlMMiIjX-qQsy4AaUph-9" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="482" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
