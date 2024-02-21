@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T06:53:36.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LtXS9F5amKk34uxdQ68u" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T06:56:38.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Vhhrj3ByfyBLwvvwXFbM" version="23.1.5" type="github">
   <diagram name="第 1 页" id="DFeqoX7XoJ7h4Axd3I3a">
-    <mxGraphModel dx="1793" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LbwR-upbL5ASRbwtkVor-77" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;fontColor=#ffffff;strokeColor=#E51400;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="125" y="260" width="130" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="LbwR-upbL5ASRbwtkVor-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;strokeColor=#4D4D4D;" edge="1" parent="1" source="LbwR-upbL5ASRbwtkVor-4" target="LbwR-upbL5ASRbwtkVor-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -47,7 +50,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbwR-upbL5ASRbwtkVor-10" value="生态市场存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LbwR-upbL5ASRbwtkVor-10" value="生态市场存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="540" y="325" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LbwR-upbL5ASRbwtkVor-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;strokeColor=#4D4D4D;" edge="1" parent="1" source="LbwR-upbL5ASRbwtkVor-6" target="LbwR-upbL5ASRbwtkVor-8">
@@ -96,7 +99,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbwR-upbL5ASRbwtkVor-45" value="已有相关&lt;br&gt;示例代码" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LbwR-upbL5ASRbwtkVor-45" value="已有相关&lt;br&gt;示例代码" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="325" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LbwR-upbL5ASRbwtkVor-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;strokeColor=#4D4D4D;" edge="1" parent="1" source="LbwR-upbL5ASRbwtkVor-37" target="LbwR-upbL5ASRbwtkVor-40">
@@ -130,7 +133,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbwR-upbL5ASRbwtkVor-52" value="知道有项目&lt;br&gt;实现了此功能" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LbwR-upbL5ASRbwtkVor-52" value="知道有项目&lt;br&gt;实现了此功能" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="150" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LbwR-upbL5ASRbwtkVor-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;strokeColor=#4D4D4D;" edge="1" parent="1" source="LbwR-upbL5ASRbwtkVor-54" target="LbwR-upbL5ASRbwtkVor-37">
