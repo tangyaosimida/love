@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T00:45:56.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="o6x5qJ3_ksc1laUP_pkH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T00:46:14.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="TXOdaEjWldytguaT_fYw" version="23.1.5" type="github">
   <diagram name="第 1 页" id="_P4C-NIC0c6lGI55AIVs">
     <mxGraphModel dx="1259" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
         <mxCell id="URCNevdXFKQMGU3Cfvzh-84" value="大屏布局" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="419" y="633" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URCNevdXFKQMGU3Cfvzh-85" value="图片装载" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="URCNevdXFKQMGU3Cfvzh-85" value="用户信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="489" y="633" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="URCNevdXFKQMGU3Cfvzh-86" value="......" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontColor=#333333;shadow=0;" parent="1" vertex="1">
