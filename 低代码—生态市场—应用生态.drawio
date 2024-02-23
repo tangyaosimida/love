@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T02:13:55.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="ReFOVi4rlQU9B2eq_omT" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T02:19:44.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qOzSEVYtT9eSp-J9FEVx" version="23.1.5" type="github">
   <diagram name="第 1 页" id="oaF9fTQ_DsNvX9ZJcAT-">
-    <mxGraphModel>
+    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4D4D4D;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="690" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4D4D4D;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="262" width="690" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-6" value="3. 新能源项目文件处理" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="332" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-8" value="5. 欧阳海罐区项目" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="392" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-9" value="6. 智慧水文" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="422" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-10" value="7. CIM平台" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="452" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-11" value="8. 全过程填报" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="482" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-12" value="9. 可再生能源全生命周期管理平台" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="512" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-13" value="10. 大渡河" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="542" width="250" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-14" value="11. 智慧移民征地云平台" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="572" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-15" value="13. 地质数据采集系统" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="602" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-16" value="14. 数字工程云平台" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="632" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-17" value="15. 全过程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="662" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-18" value="项目生态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-19" value="磐石/Zebras/生态市场" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-20" value="&lt;font color=&quot;#4d4d4d&quot;&gt;&amp;nbsp;输入应用名称检索&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#B3B3B3;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="172" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-21" value="全部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#3399FF;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-22" value="主应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-23" value="&lt;font&gt;子应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-24" value="&lt;font&gt;组件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-25" value="&lt;font&gt;可视化应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-33" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-35" value="..." style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-36" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-37" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="692" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-41" value="总计 100 个应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="687" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b33q3xMrvxqg7gH2VDQ9-42" value="" style="endArrow=none;html=1;rounded=0;entryX=1.002;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#4D4D4D;sketch=1;curveFitting=1;jiggle=2;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="168.5" as="sourcePoint" />
+            <mxPoint x="751.3800000000001" y="166.06000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
