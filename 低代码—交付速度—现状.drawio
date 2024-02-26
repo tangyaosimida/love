@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T01:24:49.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jg7erkA8QnuayrCSr-d-" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T01:29:05.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="S4eM8GEHP2xZD4PC2hK-" version="23.1.6" type="github">
   <diagram name="第 1 页" id="v3I6r_rQwzWQODkESoc9">
-    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,24 @@
             <mxPoint x="420" y="480" as="sourcePoint" />
             <mxPoint x="419.49999999999994" y="204.98000000000005" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BI0DToEm27fz6GxcxWoR-7" value="时间点1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BI0DToEm27fz6GxcxWoR-3">
+          <mxGeometry x="0.0266" y="-4" relative="1" as="geometry">
+            <mxPoint x="-4" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BI0DToEm27fz6GxcxWoR-8" value="需求文档" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BI0DToEm27fz6GxcxWoR-3">
+          <mxGeometry x="-0.8896" relative="1" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BI0DToEm27fz6GxcxWoR-9" value="时间点2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BI0DToEm27fz6GxcxWoR-3">
+          <mxGeometry x="0.4621" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BI0DToEm27fz6GxcxWoR-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
