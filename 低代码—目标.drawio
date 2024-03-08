@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T00:47:32.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kHITQdhTce7BfE0wKZKY" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T00:48:18.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="n2NWrvec89v0zRaVr4R1" version="24.0.2" type="github">
   <diagram name="第 1 页" id="ZuTe7DdRdzsCQcWQcRMc">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,6 +91,18 @@
         </mxCell>
         <mxCell id="YVC1tcmqvo0bKReFXnxw-3" value="生态丰富度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="589" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lCWFAJ6bnJ19n7BnZsp-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w7HhCrWTfC1vircZ0-AZ-15" target="w7HhCrWTfC1vircZ0-AZ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="750" as="sourcePoint" />
+            <mxPoint x="440" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lCWFAJ6bnJ19n7BnZsp-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="679" as="sourcePoint" />
+            <mxPoint x="419.5" y="639" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
