@@ -1,35 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T09:47:04.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JRW5kD6oDy7MDJPkWi1T" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T01:28:44.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="W2c_xpuk-VjrC18TBMpU" version="24.0.2" type="github">
   <diagram name="第 1 页" id="3tZ21pMMZ9bJWXgG2pwM">
-    <mxGraphModel dx="819" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r7-GNezHvX29lqFy12Uu-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=none;glass=0;shadow=0;textShadow=0;fontStyle=1;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="120" width="400" height="320" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-3" value="标准化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="106" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-2" value="AI辅助生成" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;glass=0;shadow=0;textShadow=0;fontStyle=0;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="120" width="400" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-4" value="流程化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="226" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-3" value="可视化编程" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;glass=0;shadow=0;textShadow=0;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="200" width="400" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-5" value="配置化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-4" value="配置驱动界面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;glass=0;shadow=0;textShadow=0;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="280" width="400" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-6" value="可视化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="474" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-5" value="统一开发平台、技术选型、编码规范" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;glass=0;shadow=0;textShadow=0;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="360" width="400" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-7" value="智慧化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="594" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-6" value="✅标准化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;glass=0;shadow=0;textShadow=0;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="360" width="69" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-8" value="&lt;h1&gt;开发发展趋势&lt;/h1&gt;&lt;p&gt;&lt;b&gt;标准化&lt;/b&gt;：统一开发平台、技术选型、编码规范&lt;/p&gt;&lt;p&gt;&lt;b&gt;流程化&lt;/b&gt;：让数据流转&lt;/p&gt;&lt;p&gt;&lt;b&gt;配置化&lt;/b&gt;：配置驱动视图界面&lt;/p&gt;&lt;p&gt;&lt;b&gt;可视化&lt;/b&gt;：可视化编程&lt;/p&gt;&lt;p&gt;&lt;b&gt;智慧化&lt;/b&gt;：AI辅助生成&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="106" y="620" width="254" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-7" value="������配置化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;glass=0;shadow=0;textShadow=0;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="280" width="69" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-12" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="534" y="670" width="36" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-8" value="������可视化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;glass=0;shadow=0;textShadow=0;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="200" width="69" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="670" as="sourcePoint" />
+            <mxPoint x="520" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="r7-GNezHvX29lqFy12Uu-9" value="������智慧化" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#f5f5f5;glass=0;shadow=0;textShadow=0;fontStyle=1;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="131" y="120" width="69" height="80" as="geometry" />
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-14" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="534" y="750" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-15" value="编程门槛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
