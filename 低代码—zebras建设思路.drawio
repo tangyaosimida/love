@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T01:32:05.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RXMuqdjVArGjSB05RD4s" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T02:26:22.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Xj1SgE0KbKGxxs7pwgVw" version="24.0.2" type="github">
   <diagram name="第 1 页" id="3tZ21pMMZ9bJWXgG2pwM">
     <mxGraphModel dx="1259" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="jAI67BSj0BvAzHi6qfSJ-7" value="智慧化" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jAI67BSj0BvAzHi6qfSJ-8" value="&lt;h1&gt;开发发展趋势&lt;/h1&gt;&lt;p&gt;&lt;b&gt;标准化&lt;/b&gt;：统一开发平台、技术选型、编码规范&lt;/p&gt;&lt;p&gt;&lt;b&gt;流程化&lt;/b&gt;：让数据流转&lt;/p&gt;&lt;p&gt;&lt;b&gt;配置化&lt;/b&gt;：配置驱动视图界面&lt;/p&gt;&lt;p&gt;&lt;b&gt;可视化&lt;/b&gt;：可视化编程&lt;/p&gt;&lt;p&gt;&lt;b&gt;智慧化&lt;/b&gt;：AI辅助生成&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="jAI67BSj0BvAzHi6qfSJ-8" value="&lt;h1&gt;开发发展趋势&lt;/h1&gt;&lt;p&gt;&lt;b&gt;标准化&lt;/b&gt;：统一开发平台、技术选型、编码规范&lt;/p&gt;&lt;p&gt;&lt;b&gt;流程化&lt;/b&gt;：&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(13, 13, 13); white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;软件开发流程的规范化有助于项目管理，确保开发周期的可预测性和稳定性&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;配置化&lt;/b&gt;：配置驱动视图界面&lt;/p&gt;&lt;p&gt;&lt;b&gt;可视化&lt;/b&gt;：可视化编程&lt;/p&gt;&lt;p&gt;&lt;b&gt;智慧化&lt;/b&gt;：AI辅助生成&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="106" y="620" width="254" height="190" as="geometry" />
         </mxCell>
         <mxCell id="jAI67BSj0BvAzHi6qfSJ-12" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
