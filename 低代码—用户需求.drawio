@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T03:20:00.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0zTNlnIuLb3fxMNWk802" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T03:20:19.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Hy-nPE4Z5HSdpOiaBaVM" version="24.0.6" type="github">
   <diagram name="第 1 页" id="ETYZYgl428a3MaDztlxT">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="180" y="377" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCVO3PJLOJHeOizx89BT-29" value="实现潜能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="373" width="40" height="30" as="geometry" />
+          <mxGeometry x="485" y="377" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
