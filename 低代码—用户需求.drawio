@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T02:17:33.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1njfRhATs8Nf_QBBnoOi" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T03:20:00.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0zTNlnIuLb3fxMNWk802" version="24.0.6" type="github">
   <diagram name="第 1 页" id="ETYZYgl428a3MaDztlxT">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gCVO3PJLOJHeOizx89BT-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF3333;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF3333;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="370" y="317" width="280" height="263" as="geometry" />
         </mxCell>
         <mxCell id="gCVO3PJLOJHeOizx89BT-1" value="&lt;h1&gt;“软件产品质量”需求层次理论&lt;/h1&gt;&lt;div&gt;参考“马斯洛”人类需求层次理论，伴随技术进步，客户对软件产品质量的要求也在不断提升。&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="230" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-18" value="生理需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-18" value="生理需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="90" y="521" width="240" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-19" value="安全需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-19" value="安全需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="110" y="483" width="200" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-20" value="社会需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-20" value="社会需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="445" width="160" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-21" value="尊重需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-21" value="尊重需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="150" y="407" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="330" width="80" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-23" value="基础需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-23" value="基础需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="390" y="521" width="240" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-24" value="可靠性需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-24" value="可靠性需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="410" y="483" width="200" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-25" value="使用性需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-25" value="使用性需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="430" y="445" width="160" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-26" value="成长需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-26" value="成长需求" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="450" y="407" width="120" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="470" y="330" width="80" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-28" value="自我实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-28" value="自我实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="377" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCVO3PJLOJHeOizx89BT-29" value="实现潜能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#333333;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="gCVO3PJLOJHeOizx89BT-29" value="实现潜能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#333333;fontSize=12;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="373" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
