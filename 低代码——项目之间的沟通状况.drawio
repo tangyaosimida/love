@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T14:46:01.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="539ab-VOr34J5_z7wNj6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T14:48:50.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jsu7J7QfaLAsfyvJseC5" version="24.0.7" type="github">
   <diagram name="第 1 页" id="k3ipG-IGHfAZxOH_ghWD">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-1" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-2" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-3" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-5" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-6" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-7" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-10" value="平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-11" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qlxcuIsRLA-MdrNAzcSg-12" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
