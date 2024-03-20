@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T01:57:53.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fnfUVwe_ix3Thth0PZSG" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T01:58:46.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wYFKeuSzUfagybHmKd-d" version="24.0.7" type="github">
   <diagram name="第 1 页" id="LhYoBNnIXYvUIdakrXG9">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="S3Cx6Kd6TKJNvWLihpOH-24" value="可视化编程产品" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="420" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="S3Cx6Kd6TKJNvWLihpOH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Cx6Kd6TKJNvWLihpOH-3" value="可视化功能" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="520" width="350" height="40" as="geometry" />
@@ -30,9 +27,6 @@
         </mxCell>
         <mxCell id="S3Cx6Kd6TKJNvWLihpOH-9" value="UE大屏设计" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="460" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S3Cx6Kd6TKJNvWLihpOH-10" value="源码功能" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S3Cx6Kd6TKJNvWLihpOH-11" value="项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="560" width="420" height="40" as="geometry" />
@@ -81,6 +75,9 @@
             <mxPoint x="485" y="390" as="sourcePoint" />
             <mxPoint x="485" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S3Cx6Kd6TKJNvWLihpOH-26" value="源码功能" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
