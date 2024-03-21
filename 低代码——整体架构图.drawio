@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T02:15:46.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dQ6fAPAjs1CE5KVrQsyA" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T02:15:59.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AqMoi8U6wu0gC2JBBDJx" version="24.0.7" type="github">
   <diagram name="第 1 页" id="iJ_StzI4RyBcfN-M5i3P">
-    <mxGraphModel dx="1974" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2308" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,10 +59,10 @@
           <mxGeometry x="530" y="830" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-19" value="磐石平台&lt;div&gt;1个&lt;/div&gt;&lt;div&gt;数字化底座&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="465" width="100" height="265" as="geometry" />
+          <mxGeometry x="690" y="465" width="70" height="265" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-20" value="N个&lt;div&gt;业务系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="290" width="105" height="120" as="geometry" />
+          <mxGeometry x="690" y="290" width="70" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
