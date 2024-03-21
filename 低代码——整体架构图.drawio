@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T02:58:11.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dJsk2APZNCepmrAinmiZ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T03:05:09.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SmfjSMPFj4CnKw8CS8AF" version="24.0.7" type="github">
   <diagram name="第 1 页" id="iJ_StzI4RyBcfN-M5i3P">
-    <mxGraphModel dx="2308" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,27 @@
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-47" value="微前端中台（Zebras）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="330" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-49" value="应用管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-50" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-51" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-52" value="组件管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="555" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-53" value="身份认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-56" value="公共功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="380" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
