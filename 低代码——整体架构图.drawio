@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T06:14:23.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LZGQk2gQ3mQW2crx6GxC" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T06:16:12.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RoKMamwToDCTsXdGY1-Z" version="24.0.7" type="github">
   <diagram name="第 1 页" id="iJ_StzI4RyBcfN-M5i3P">
     <mxGraphModel dx="2401" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,19 +172,19 @@
         <mxCell id="yf16CdO8YpfE5HRmcU5y-97" value="版本控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yf16CdO8YpfE5HRmcU5y-103" value="普通表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-103" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="506.25" width="80" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="yf16CdO8YpfE5HRmcU5y-104" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-104" value="可视化汇报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="505" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-105" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="450" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="yf16CdO8YpfE5HRmcU5y-106" value="流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-106" value="流程表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="450" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="yf16CdO8YpfE5HRmcU5y-107" value="流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-107" value="大屏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="450" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-108" value="可视化设计&lt;div&gt;产品&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="yf16CdO8YpfE5HRmcU5y-117" value="可视化业务&lt;div&gt;类型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="yf16CdO8YpfE5HRmcU5y-119" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-119" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="502.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
