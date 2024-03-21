@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T02:40:33.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="v3-iZL5XY_ecXmrLT9Kt" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T02:41:44.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R1t5iFeXuh1pL4p1s8jS" version="24.0.7" type="github">
   <diagram name="第 1 页" id="iJ_StzI4RyBcfN-M5i3P">
     <mxGraphModel dx="2222" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-140" y="120" width="120" height="760" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="730" height="120" as="geometry" />
+          <mxGeometry x="30" y="130" width="730" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="750" width="730" height="120" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="530" y="830" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-30" value="&lt;div&gt;应用层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="130" width="60" height="120" as="geometry" />
+          <mxGeometry x="30" y="130" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="320" width="730" height="410" as="geometry" />
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-32" value="平台服务&lt;div&gt;（PASS）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="320" width="60" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-33" value="统一API网关（鉴权、转发、限流、统计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-34" value="&lt;div&gt;服务网关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
