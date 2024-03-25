@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T01:23:23.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uj9kGQX9TujcBrXaeyC7" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T01:26:20.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8Kh0Y5BO8bYACdOZqk2D" version="24.0.7" type="github">
   <diagram name="第 1 页" id="046weU8yn_X5KZRcPLGz">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="bABVe3KoeNP1Av6NC0rt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="200" width="130" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="bABVe3KoeNP1Av6NC0rt-10" value="物料中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bABVe3KoeNP1Av6NC0rt-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;物料中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bABVe3KoeNP1Av6NC0rt-11" value="模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -40,17 +40,17 @@
         <mxCell id="bABVe3KoeNP1Av6NC0rt-18" value="数" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="500" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bABVe3KoeNP1Av6NC0rt-19" value="项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bABVe3KoeNP1Av6NC0rt-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;项目&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bABVe3KoeNP1Av6NC0rt-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="110" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="bABVe3KoeNP1Av6NC0rt-21" value="应用中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bABVe3KoeNP1Av6NC0rt-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bABVe3KoeNP1Av6NC0rt-22" value="应用构建中心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="432.5" y="210" width="85" height="30" as="geometry" />
+        <mxCell id="bABVe3KoeNP1Av6NC0rt-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应用构建中心&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="426.25" y="210" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bABVe3KoeNP1Av6NC0rt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="90" height="30" as="geometry" />
