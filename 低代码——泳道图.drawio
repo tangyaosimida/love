@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T03:36:17.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="au98BP7t6LI5dCjKbb0V" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T03:38:28.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jcS_WwZUDnDpW2J9zlJ1" version="24.2.3" type="github">
   <diagram name="第 1 页" id="ji11t7zjMDZuTKzRz6_U">
     <mxGraphModel dx="2336" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,13 +167,13 @@
         <mxCell id="Uosc3sd0xL7aGzGoplJn-69" value="DSL&lt;div&gt;(Schema)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="50" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Uosc3sd0xL7aGzGoplJn-70" value="可视化编排的能力&lt;div&gt;（让组件以拖、拉、拽的形式实现自由编排）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uosc3sd0xL7aGzGoplJn-70" value="可视化编排的能力&lt;div&gt;（让组件以拖、拉、拽的形式实现自由编排）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="390" y="120" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Uosc3sd0xL7aGzGoplJn-71" value="逻辑编排的能力&lt;div&gt;（让组件之间可进行逻辑连接）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uosc3sd0xL7aGzGoplJn-71" value="逻辑编排的能力&lt;div&gt;（让组件之间可进行逻辑连接）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="390" y="250" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Uosc3sd0xL7aGzGoplJn-72" value="数据管理能力&lt;div&gt;（解决数据从哪来到哪去的问题）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Uosc3sd0xL7aGzGoplJn-72" value="数据管理能力" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Uosc3sd0xL7aGzGoplJn-73" value="生态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
