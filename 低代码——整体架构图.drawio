@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T02:24:53.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FXib6xyDmqQRqceT1U3r" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:25:12.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PuKAqHMY9Yl58Qe0ZCej" version="24.2.3" type="github">
   <diagram name="第 1 页" id="iJ_StzI4RyBcfN-M5i3P">
-    <mxGraphModel dx="1816" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="yf16CdO8YpfE5HRmcU5y-115" value="AI平台" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#333333;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="590" y="734" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yf16CdO8YpfE5HRmcU5y-117" value="&lt;div&gt;赋能业务类型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#1A1A1A;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="yf16CdO8YpfE5HRmcU5y-117" value="低代码业务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontColor=#1A1A1A;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="420" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yf16CdO8YpfE5HRmcU5y-119" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f8cecc;" parent="1" vertex="1">
