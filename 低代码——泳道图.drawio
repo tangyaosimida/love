@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:21:34.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kEpLaz2GvcZASEUyQUq_" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:23:57.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="I4rRDbgRjXB4i3k--Co-" version="24.2.3" type="github">
   <diagram name="第 1 页" id="ji11t7zjMDZuTKzRz6_U">
-    <mxGraphModel dx="1876" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
           <mxGeometry x="205" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uosc3sd0xL7aGzGoplJn-56" value="页面设计器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="225" width="80" height="30" as="geometry" />
+          <mxGeometry x="205" y="226" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uosc3sd0xL7aGzGoplJn-57" value="报表设计器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="357" width="80" height="33" as="geometry" />
@@ -203,12 +203,12 @@
             <mxPoint x="170" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uosc3sd0xL7aGzGoplJn-87" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.016;exitY=0.516;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Uosc3sd0xL7aGzGoplJn-41">
+        <mxCell id="Uosc3sd0xL7aGzGoplJn-87" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uosc3sd0xL7aGzGoplJn-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="204.7199999999998" y="240.48000000000002" as="sourcePoint" />
-            <mxPoint x="176" y="240" as="targetPoint" />
+            <mxPoint x="205" y="238.75" as="sourcePoint" />
+            <mxPoint x="175" y="241.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="201" y="240" />
+              <mxPoint x="201" y="241.01" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -218,7 +218,7 @@
             <mxPoint x="180" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uosc3sd0xL7aGzGoplJn-91" value="让组件以拖、拉、拽的形式实现自由编排&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Uosc3sd0xL7aGzGoplJn-91" value="让组件以拖、拉、拽的形式实现自由编排&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="125" width="270" height="55" as="geometry" />
         </mxCell>
       </root>
