@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:30:29.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="H5g9uJMX8pj32BzliNxh" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:32:01.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xizg3uHk2zvqGlllVWI3" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="1876" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="DL2iSLS2zm1EoD6sChtO-45" value="数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="350" y="270" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DL2iSLS2zm1EoD6sChtO-46" value="扩展能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-46" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;扩展能力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DL2iSLS2zm1EoD6sChtO-47" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;让组件之间可逻辑连接&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通讯方案（页面内通讯、全局通讯）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;条件与循环&lt;/div&gt;&lt;div style=&quot;&quot;&gt;事件驱动逻辑&lt;/div&gt;&lt;div style=&quot;&quot;&gt;数据绑定（静态数据绑定、动态数据绑定）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
