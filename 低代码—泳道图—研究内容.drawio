@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:34:11.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EHXDoB9iH6IjCOkUREV2" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:35:46.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cpwLJMJGhjgMx4XMVpJy" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
-    <mxGraphModel dx="1876" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,12 +150,12 @@
           <mxGeometry x="300" y="190" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DL2iSLS2zm1EoD6sChtO-45" value="数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="40" height="200" as="geometry" />
+          <mxGeometry x="300" y="270" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DL2iSLS2zm1EoD6sChtO-46" value="&lt;b&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;扩展能力&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DL2iSLS2zm1EoD6sChtO-47" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;让组件之间可逻辑连接&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通讯方案（页面内通讯、全局通讯）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;条件与循环&lt;/div&gt;&lt;div style=&quot;&quot;&gt;事件驱动逻辑&lt;/div&gt;&lt;div style=&quot;&quot;&gt;数据绑定（静态数据绑定、动态数据绑定）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-47" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;让组件之间可逻辑连接&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DL2iSLS2zm1EoD6sChtO-48" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#4D4D4D;" edge="1" parent="1" source="DL2iSLS2zm1EoD6sChtO-29" target="DL2iSLS2zm1EoD6sChtO-25">
@@ -185,7 +185,7 @@
             <mxPoint x="180" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DL2iSLS2zm1EoD6sChtO-52" value="让组件以拖、拉、拽的形式实现自由编排&lt;div&gt;&lt;br&gt;&lt;div&gt;拖拽引擎、内置属性设计器、基础组件库&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-52" value="让组件以拖、拉、拽的形式实现自由编排" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DL2iSLS2zm1EoD6sChtO-53" value="其它" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -197,8 +197,20 @@
         <mxCell id="DL2iSLS2zm1EoD6sChtO-55" value="水、能、砂、城、数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-17.5" y="525" width="187.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DL2iSLS2zm1EoD6sChtO-56" value="&lt;span style=&quot;&quot;&gt;数据建模&lt;/span&gt;&lt;div style=&quot;&quot;&gt;数据库（国产化、多数据库支持、数据导入、导出、迁移、备份、升级）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;统一数据库语言（DDL、DML、DCL、DQL）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;可视化（可视化表、实体关系描述、数据视图和索引）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;动态API&lt;/div&gt;&lt;div style=&quot;&quot;&gt;标准API生成（增、删、改、查）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;定制化API（多表操作）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;API测试、文档、安全&lt;/div&gt;&lt;div style=&quot;&quot;&gt;微服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;定时任务、消息推送&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="340" height="200" as="geometry" />
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-56" value="" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-58" value="数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-59" value="数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-60" value="国际化、主题、权限、版本、文档" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-61" value="国际化、主题、权限、版本、文档" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
