@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:51:06.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X0Y7FQ3B1O8EKtJs__lt" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:56:37.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4onTAXz_mC_L48J9JnQF" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="DL2iSLS2zm1EoD6sChtO-9" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="-5" y="130" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DL2iSLS2zm1EoD6sChtO-10" value="低代码业务" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-10" value="&lt;font color=&quot;#4d4d4d&quot;&gt;低代码业务&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="-17.5" y="220" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DL2iSLS2zm1EoD6sChtO-11" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4D4D4D;" vertex="1" parent="1">
