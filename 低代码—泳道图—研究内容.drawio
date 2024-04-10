@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:44:57.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lWG4IBeiQytlMib5EKaR" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:45:38.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mcQJN8yNQed9d3tPxaSD" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
         <mxCell id="DL2iSLS2zm1EoD6sChtO-60" value="符合中南院技术背景，能为现有的信息化项目赋能，高码、低码、模式共存" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DL2iSLS2zm1EoD6sChtO-61" value="支持用户特殊定制" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DL2iSLS2zm1EoD6sChtO-61" value="支出高度可扩展能力，基于凭条可扩展出N个设计器" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="410" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
