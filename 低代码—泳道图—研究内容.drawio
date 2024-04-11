@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T03:06:20.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EupnvZKQui3yhmGrJqwv" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T03:08:48.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kpMoLSOrN10IXl1P_3Wd" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
-    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cuvuWjdc5wPWUUID254h-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="71.5" width="730" height="480" as="geometry" />
+          <mxGeometry x="260" y="71.5" width="800" height="480" as="geometry" />
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="271.5" width="500" height="230" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-49" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="870" y="453" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="cuvuWjdc5wPWUUID254h-50" value="源码系统集成代码成果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="81.5" width="60" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
