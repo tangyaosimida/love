@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T02:51:39.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6wTFYmgveq6dyDIuNsFf" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T02:55:12.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ox0bdv2lvQLtH5Lo6h7V" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
-    <mxGraphModel dx="2336" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1696" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,10 +179,10 @@
         <mxCell id="cuvuWjdc5wPWUUID254h-27" value="监控（运行日志）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="217" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-28" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cuvuWjdc5wPWUUID254h-28" value="消息队列、定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="263" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cuvuWjdc5wPWUUID254h-29" value="CI/CD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="309" width="160" height="34" as="geometry" />
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
