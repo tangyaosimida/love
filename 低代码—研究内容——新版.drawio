@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T01:43:07.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LBlHDVUYy3Pn7C38pEV2" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T01:44:54.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lzybaQpTbS4jsyARwUSI" version="24.2.3" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
     <mxGraphModel dx="2022" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
           <mxGeometry x="330" y="390" width="500" height="410" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="403" width="460" height="57" as="geometry" />
+          <mxGeometry x="348.5" y="403" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="566.5" width="460" height="57" as="geometry" />
@@ -165,10 +165,10 @@
           <mxGeometry x="348.5" y="484.25" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-43" value="可视化支持" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="403" width="60" height="57" as="geometry" />
+          <mxGeometry x="348.5" y="403" width="60" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-44" value="界定平台本期可支持的业务范围， 支持中南院流程结合表单、表格业务可视化，以低代码模式开发。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="410" y="403" width="400" height="57" as="geometry" />
+        <mxCell id="oxlV8vseASiHhqJOPdih-44" value="界定平台本期可支持的业务范围， 预计实现中南院流程结合表单、表格业务的页面以低代码模式开发。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;align=center;" parent="1" vertex="1">
+          <mxGeometry x="408.5" y="403" width="400" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-45" value="生态支持" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="566.5" width="60" height="57" as="geometry" />
