@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T02:04:32.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3s3Snw0U-v7J5aAlVo9D" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T02:11:26.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ez9JyVYQlJE24NqRtckf" version="24.2.3" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
     <mxGraphModel dx="2022" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         <mxCell id="oxlV8vseASiHhqJOPdih-49" value="源码集成低码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="730" width="60" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-53" value="&amp;nbsp;低代码平台始终无法覆盖所有业务场景，很重要的能力是让 “业务”实现“自给自足”的低码编程模式。实现共享、共建、共生的开发生态。&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="oxlV8vseASiHhqJOPdih-53" value="低代码平台始终无法覆盖所有业务场景，平台需要提供扩展能力，让 “业务”实现“自给自足”的低码编程模式。实现共享、共建、共生的开发生态。&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="408.5" y="566.5" width="400" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-54" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;使用低代码平台进行业务开发，无法适应业务需求时，支持用户低码、高码两种模式进行扩展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
