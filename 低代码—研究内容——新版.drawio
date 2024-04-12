@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T01:09:52.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2ES0xG7AwDEgV6-DjEpz" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T01:13:32.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wgvJATfJ22Tf9AjHNau9" version="24.2.3" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
     <mxGraphModel dx="2261" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
         <mxCell id="oxlV8vseASiHhqJOPdih-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="484.25" width="460" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-43" value="可视化&lt;div&gt;支持&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="oxlV8vseASiHhqJOPdih-43" value="可视化支持" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="403" width="60" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-44" value="&amp;nbsp;确定面向业务要实现的功能， 支持中南院流程结合表单、表格业务以低代码模式开发。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
@@ -179,7 +179,7 @@
         <mxCell id="oxlV8vseASiHhqJOPdih-47" value="公共功能抽取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="484.75" width="60" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-49" value="集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="oxlV8vseASiHhqJOPdih-49" value="源码集成低码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="730" width="60" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-53" value="以共享、共建、共生为目标，研究如何为数字化成果复用提供技术解决方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
