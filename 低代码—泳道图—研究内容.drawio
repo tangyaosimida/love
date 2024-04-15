@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T03:06:10.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-4P2WfQDWx-fQS4I_O4H" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T03:08:17.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bB3_zvwW_qNQESj8HU98" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,14 +40,11 @@
         <mxCell id="cuvuWjdc5wPWUUID254h-34" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#0050EF;fillColor=#dae8fc;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="350" y="413" width="600" height="81.5" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-36" value="&lt;span style=&quot;text-align: left;&quot;&gt;逻辑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="336.5" width="60" height="70.5" as="geometry" />
-        </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;视图&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="281.5" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-38" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通讯方案（页面内通讯、全局通讯）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;条件与循环&lt;/div&gt;&lt;div&gt;事件驱动逻辑&lt;/div&gt;&lt;div&gt;数据绑定（静态数据绑定、动态数据绑定）&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="410" y="337" width="540" height="70" as="geometry" />
+        <mxCell id="cuvuWjdc5wPWUUID254h-38" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#9673a6;fillColor=#e1d5e7;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="350" y="337" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-39" value="&lt;div style=&quot;&quot;&gt;拖拽引擎、内置属性设计器、DOM结构树、主题、国际化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="281.5" width="540" height="50" as="geometry" />
@@ -106,7 +103,7 @@
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-15" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="977.5" y="465" width="65" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;数据库（国产化、多数据库支持、数据导入、导出、迁移、备份、升级）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;统一数据库语言（DDL、DML、DCL、DQL），&lt;span style=&quot;background-color: initial;&quot;&gt;可视化（可视化表、实体关系描述、数据视图和索引）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;动态API：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;标准API生成（增、删、改、查），&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;定制化API（多表操作）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;API测试、文档、安全&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通讯方案（页面内通讯、全局通讯）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;条件与循环&lt;/div&gt;&lt;div&gt;事件驱动逻辑&lt;/div&gt;&lt;div&gt;数据绑定（静态数据绑定、动态数据绑定）&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="224" width="200" height="314.5" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-17" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -141,6 +138,9 @@
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-27" value="API测试、文档、安全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="420" width="76" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-28" value="逻辑层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="345" width="56" height="49.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
