@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T07:51:16.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CcykkcUfuhBWr7ZK_lJB" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T07:53:53.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KGZk6MZVrleYRJFuG21U" version="24.2.3" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
     <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,16 +197,16 @@
         <mxCell id="oxlV8vseASiHhqJOPdih-56" value="低代码平台实现的功能与源码编程实现的功能需要集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="214" y="957" width="400" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-3" value="流程驱动业务（流程+表单+表格）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="KTXE01B3mc42weGpk_5s-3" value="公共能力抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="347.75" y="511.25" width="461.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-4" value="流程驱动业务（流程+表单+表格）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="KTXE01B3mc42weGpk_5s-4" value="一库一线一房" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="348.5" y="590" width="461.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-7" value="流程驱动业务（流程+表单+表格）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="KTXE01B3mc42weGpk_5s-7" value="高码、低码、无码" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="348.5" y="680" width="461.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-8" value="流程驱动业务（流程+表单+表格）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="KTXE01B3mc42weGpk_5s-8" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="347.75" y="760" width="461.5" height="30" as="geometry" />
         </mxCell>
       </root>
