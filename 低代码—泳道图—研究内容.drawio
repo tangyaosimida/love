@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T02:57:13.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aWJFBPalpPJWSBJlDoo_" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T03:01:49.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fmLYNS6lmWvHcOSD2JLo" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,24 @@
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;数据库（国产化、多数据库支持、数据导入、导出、迁移、备份、升级）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;统一数据库语言（DDL、DML、DCL、DQL），&lt;span style=&quot;background-color: initial;&quot;&gt;可视化（可视化表、实体关系描述、数据视图和索引）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;动态API：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;标准API生成（增、删、改、查），&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;定制化API（多表操作）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;API测试、文档、安全&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="224" width="200" height="314.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-17" value="数据层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="427.75" width="56" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-18" value="多数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="459.75" width="76" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-19" value="导入/导出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="527" y="459.25" width="76" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-20" value="迁移" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="460" width="76" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-21" value="升级" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="460" width="76" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-22" value="备份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="459.5" width="76" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
