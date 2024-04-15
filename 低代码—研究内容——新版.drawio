@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T06:20:59.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="x0RTEvaxxpHU5Z7b0dll" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T07:39:24.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ryf6tKt9rCpkEZoNOjqc" version="24.2.3" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
-    <mxGraphModel dx="2022" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oxlV8vseASiHhqJOPdih-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="330" y="390" width="500" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KTXE01B3mc42weGpk_5s-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="460" height="57" as="geometry" />
+        </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4D4D4D;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="341.5" width="390" height="467" as="geometry" />
         </mxCell>
@@ -149,9 +155,6 @@
         <mxCell id="oxlV8vseASiHhqJOPdih-37" value="低代码平台建设研究内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="350" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="330" y="390" width="500" height="410" as="geometry" />
-        </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="403" width="460" height="57" as="geometry" />
         </mxCell>
@@ -165,34 +168,34 @@
           <mxGeometry x="348.5" y="484.25" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-43" value="低代码编程业务边界" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="403" width="60" height="57" as="geometry" />
+          <mxGeometry x="348.5" y="403" width="461.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-44" value="界定平台本期可支持的业务边界， 预计实现以中南院流程驱动业务的页面（流程结合表单、表格）能以低代码模式开发。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="408.5" y="403" width="400" height="57" as="geometry" />
+          <mxGeometry x="808.5" y="588" width="400" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-45" value="生态建立" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="566.5" width="60" height="57" as="geometry" />
+          <mxGeometry x="348.5" y="566.5" width="461.5" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-46" value="开发模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="649.5" width="60" height="57" as="geometry" />
+          <mxGeometry x="348.5" y="649.5" width="461.5" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-47" value="公共功能抽取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="484.75" width="60" height="57" as="geometry" />
+          <mxGeometry x="348.5" y="484.75" width="461.5" height="25.25" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-49" value="源码集成低码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="730" width="60" height="57" as="geometry" />
+          <mxGeometry x="350" y="730" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-53" value="低代码平台始终无法覆盖所有业务场景，平台需要提供扩展能力，让 “业务”实现“自给自足”的低码编程模式。实现共享、共建、共生的开发生态。&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="408.5" y="566.5" width="400" height="57" as="geometry" />
+          <mxGeometry x="180" y="890" width="400" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-54" value="&amp;nbsp; &amp;nbsp;结合中南院目前的技术背景，低代码平台提供的产品，需要支持源码开发模式，降低侵入性，为开发模式转换提供过渡期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="408.5" y="649.5" width="400" height="57" as="geometry" />
+          <mxGeometry x="-30" y="820" width="400" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-55" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;抽象低代码需求的公共功能，由平台统一开发、管理。让&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于（BIM、GIS、UE、Treejs）的低代码需求可以基于平台进行快速定制&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="408.5" y="484.25" width="400" height="57" as="geometry" />
+          <mxGeometry x="640" y="900" width="400" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-56" value="低代码平台实现的功能与源码编程实现的功能需要集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="410" y="730" width="400" height="57" as="geometry" />
+          <mxGeometry x="214" y="957" width="400" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
