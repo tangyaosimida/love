@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T03:08:17.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bB3_zvwW_qNQESj8HU98" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T03:10:30.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6kTcJ_M4oi2cjaY9wdRc" version="24.2.3" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
-    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,22 @@
           <mxGeometry x="850" y="420" width="76" height="34" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-28" value="逻辑层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="352" y="345" width="56" height="49.5" as="geometry" />
+          <mxGeometry x="352" y="347.25" width="56" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-29" value="事件驱动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="355.5" width="76" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-30" value="通讯方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="527" y="355.5" width="76" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-31" value="数据绑定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="355.5" width="76" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-32" value="条件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="355.5" width="76" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-33" value="循环" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="355.5" width="76" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
