@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T09:37:29.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NOjTLWSwprw_slhFhzLm" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T09:38:10.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FZ8SkZ-0QauWAb_RXiUW" version="24.2.5" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="1259" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="cuvuWjdc5wPWUUID254h-9" value="底层搭建协议（DSL）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="511.5" width="710" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-13" value="成果&lt;div&gt;超市&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#FF0000;fontColor=#ffffff;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="cuvuWjdc5wPWUUID254h-13" value="成果&lt;div&gt;超市&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#0000FF;fontColor=#ffffff;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="920" y="122" width="40" height="98" as="geometry" />
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-21" value="大屏设计器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="cuvuWjdc5wPWUUID254h-48" value="页面设计器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="133.25" width="107.5" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-50" value="&lt;font color=&quot;#4d4d4d&quot;&gt;源码系统集成代码成果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#FF0000;fontColor=#000000;dashed=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="cuvuWjdc5wPWUUID254h-50" value="&lt;font color=&quot;#4d4d4d&quot;&gt;源码系统集成代码成果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#0000FF;fontColor=#000000;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="81.5" width="60" height="460" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-1" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
