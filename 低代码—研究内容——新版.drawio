@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T03:34:19.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yl3tbvxF7LEQEL0fPSaA" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T06:23:32.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qB19qnBT1v7wpi1T7nI-" version="24.2.5" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
     <mxGraphModel dx="2085" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
         <mxCell id="oxlV8vseASiHhqJOPdih-45" value="&amp;nbsp;4. 低代码平台如何持续为业务赋能，激发业务创造力?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="349.63" y="643" width="461.5" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-46" value="&amp;nbsp;1. 技术门槛太高，MIS大量功能模块急需升级？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
+        <mxCell id="oxlV8vseASiHhqJOPdih-46" value="&amp;nbsp;1. 技术门槛太高，MIS大量历史功能模块等待升级？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="349.63" y="402.5" width="461.5" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-47" value="&amp;nbsp;3. 该如何响应业务边界外的低代码需求？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
