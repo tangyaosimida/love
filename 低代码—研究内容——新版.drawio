@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T08:52:32.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sZAOAJpnMYI-UyC1YSdO" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T03:29:33.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5nfMghql0KUcPNliExhv" version="24.2.5" type="github">
   <diagram name="第 1 页" id="_vYEV3_HqbD5oskshCf3">
-    <mxGraphModel dx="2086" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oxlV8vseASiHhqJOPdih-38" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="330" y="390" width="500" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="730" width="460" height="57" as="geometry" />
+        <mxCell id="KTXE01B3mc42weGpk_5s-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="349.62" y="727" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4D4D4D;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="341.5" width="390" height="467" as="geometry" />
@@ -156,46 +156,46 @@
           <mxGeometry x="330" y="350" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="403" width="460" height="57" as="geometry" />
+          <mxGeometry x="349.63" y="476" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-40" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="566.5" width="460" height="57" as="geometry" />
+          <mxGeometry x="349.63" y="643" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-41" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="649.5" width="460" height="57" as="geometry" />
+          <mxGeometry x="349.63" y="402.5" width="460" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="484.25" width="460" height="57" as="geometry" />
+          <mxGeometry x="349.25" y="558" width="460" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-43" value="&amp;nbsp;1. 低代码平台能覆盖到的业务边界在哪？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="403" width="461.5" height="27" as="geometry" />
+        <mxCell id="oxlV8vseASiHhqJOPdih-43" value="&amp;nbsp;2. 低代码平台能覆盖到的业务边界在哪？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="349.63" y="476" width="461.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-44" value="流程驱动业务（流程+表单+表格）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="430" width="461.5" height="30" as="geometry" />
+          <mxGeometry x="349.63" y="503" width="461.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-45" value="&amp;nbsp;3. 低代码平台如何持续为业务赋能，激发业务创造力?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="566.5" width="461.5" height="23.5" as="geometry" />
+        <mxCell id="oxlV8vseASiHhqJOPdih-45" value="&amp;nbsp;4. 低代码平台如何持续为业务赋能，激发业务创造力?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="349.63" y="643" width="461.5" height="23.5" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-46" value="&amp;nbsp;4. 如何确保项目能从源码模式转换到低码模式？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="649.5" width="461.5" height="30.5" as="geometry" />
+        <mxCell id="oxlV8vseASiHhqJOPdih-46" value="&amp;nbsp;1. 如何确保项目能从源码模式转换到低码模式？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="349.63" y="402.5" width="461.5" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="oxlV8vseASiHhqJOPdih-47" value="&amp;nbsp;2. 该如何响应业务边界外的低代码需求？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="348.5" y="484.75" width="461.5" height="25.25" as="geometry" />
+        <mxCell id="oxlV8vseASiHhqJOPdih-47" value="&amp;nbsp;3. 该如何响应业务边界外的低代码需求？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="349.25" y="558.5" width="461.5" height="25.25" as="geometry" />
         </mxCell>
         <mxCell id="oxlV8vseASiHhqJOPdih-49" value="&amp;nbsp;5. 源码系统如何集成低代码平台实现的功能？" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;align=left;" parent="1" vertex="1">
-          <mxGeometry x="350" y="730" width="460" height="30" as="geometry" />
+          <mxGeometry x="349.62" y="727" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-3" value="公共能力抽取" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.75" y="511.25" width="461.5" height="30" as="geometry" />
+        <mxCell id="KTXE01B3mc42weGpk_5s-3" value="公共能力抽取（数据、逻辑、视图）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="348.5" y="585" width="461.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-4" value="一库一线一房" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="348.5" y="590" width="461.5" height="33.5" as="geometry" />
+        <mxCell id="KTXE01B3mc42weGpk_5s-4" value="成果超市" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="349.63" y="666.5" width="461.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-7" value="高码、低码、无码" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="348.5" y="680" width="461.5" height="30" as="geometry" />
+        <mxCell id="KTXE01B3mc42weGpk_5s-7" value="高码、低码、无码" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="349.63" y="433" width="461.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KTXE01B3mc42weGpk_5s-8" value="磐石（微前端、微服务）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347.75" y="760" width="461.5" height="30" as="geometry" />
+        <mxCell id="KTXE01B3mc42weGpk_5s-8" value="磐石（微前端、微服务）" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="347.37" y="757" width="461.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
