@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T06:51:17.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A-TuDNuIp83izZ-G7FN5" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T06:52:09.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1aHJyq9L5mTI5ezgZU6x" version="24.2.5" type="github">
   <diagram name="第 1 页" id="0f6YWzGwqrxqwguUAbRR">
     <mxGraphModel dx="1325" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="y6lOLosteKJweOoqQjkq-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;运维效率差&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;代码风格各异，代码质量低下，业务技术体系繁杂，文档缺失等，导致软件运维效率低下&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="335" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="y6lOLosteKJweOoqQjkq-15" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 14px;&quot;&gt;������&amp;nbsp; 高速度、高质量软件产品交付&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="y6lOLosteKJweOoqQjkq-15" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 14px;&quot;&gt;������&amp;nbsp; 高速度、高质量交付软件产品&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="170" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y6lOLosteKJweOoqQjkq-16" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 14px;&quot;&gt;磐石数字化底座&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
