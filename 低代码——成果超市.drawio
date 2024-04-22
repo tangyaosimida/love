@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:15:40.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="smy9NW_KqxySQFHG0I75" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T09:16:29.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8gEGwSSSy8uMY0lasJoo" version="24.2.7" type="github">
   <diagram name="第 1 页" id="O8LcyDFnGGGGe8PbeCCY">
     <mxGraphModel dx="1938" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IiTV8I8EML1BGxdbbj3v-1" value="数字孪生流域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="IiTV8I8EML1BGxdbbj3v-1" value="工程数字平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiTV8I8EML1BGxdbbj3v-2" value="智慧城市" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="IiTV8I8EML1BGxdbbj3v-2" value="GIS云平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiTV8I8EML1BGxdbbj3v-3" value="移民云平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
@@ -16,16 +16,16 @@
         <mxCell id="IiTV8I8EML1BGxdbbj3v-4" value="欧阳海" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiTV8I8EML1BGxdbbj3v-5" value="MIS系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="IiTV8I8EML1BGxdbbj3v-5" value="合同台账" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="610" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiTV8I8EML1BGxdbbj3v-6" value="云阳" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="IiTV8I8EML1BGxdbbj3v-6" value="数据填报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiTV8I8EML1BGxdbbj3v-7" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiTV8I8EML1BGxdbbj3v-8" value="全过程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="IiTV8I8EML1BGxdbbj3v-8" value="人力资源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiTV8I8EML1BGxdbbj3v-9" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 24px;&quot;&gt;成果超市&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot; size=&quot;3&quot;&gt;（平台/项目提供）&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" parent="1" vertex="1">
