@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T08:31:00.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5BfqiSfbB9L53zwphd6t" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T08:34:06.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9BTgsDZ4vPv7aIXMPtX7" version="24.2.7" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
-    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,22 +214,22 @@
         <mxCell id="JNAHnoYDXPsIVU7c80RC-57" value="视&lt;div&gt;图&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="350" y="199" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JNAHnoYDXPsIVU7c80RC-64" value="组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="JNAHnoYDXPsIVU7c80RC-64" value="组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="380" y="259.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNAHnoYDXPsIVU7c80RC-65" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="JNAHnoYDXPsIVU7c80RC-65" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="380" y="229.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNAHnoYDXPsIVU7c80RC-66" value="视图编排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="JNAHnoYDXPsIVU7c80RC-66" value="视图编排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="380" y="199.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNAHnoYDXPsIVU7c80RC-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="JNAHnoYDXPsIVU7c80RC-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="259.75" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNAHnoYDXPsIVU7c80RC-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="JNAHnoYDXPsIVU7c80RC-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="229.75" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JNAHnoYDXPsIVU7c80RC-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="JNAHnoYDXPsIVU7c80RC-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="199.75" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JNAHnoYDXPsIVU7c80RC-73" value="组件注册" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=none;fontColor=#E6E6E6;" parent="1" vertex="1">
