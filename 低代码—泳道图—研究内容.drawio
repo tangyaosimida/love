@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T08:36:19.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gnIRsBgzIh_WWU83WLAq" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T08:39:29.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cCTZlQcR9mrmJZsXL3ld" version="24.2.7" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="cuvuWjdc5wPWUUID254h-21" value="大屏设计器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="679" y="141" width="70" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-32" value="基本功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="cuvuWjdc5wPWUUID254h-32" value="磐石数智" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="977.5" y="136.5" width="65" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-34" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#0050EF;fillColor=#dae8fc;dashed=1;strokeWidth=1;" parent="1" vertex="1">
