@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:14:48.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tDb6NpIwUXwJEQLK4bKS" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T09:15:40.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="smy9NW_KqxySQFHG0I75" version="24.2.7" type="github">
   <diagram name="第 1 页" id="O8LcyDFnGGGGe8PbeCCY">
-    <mxGraphModel dx="1647" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="IiTV8I8EML1BGxdbbj3v-2" value="智慧城市" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IiTV8I8EML1BGxdbbj3v-3" value="智慧水务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="IiTV8I8EML1BGxdbbj3v-3" value="移民云平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IiTV8I8EML1BGxdbbj3v-4" value="欧阳海" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#0050ef;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
