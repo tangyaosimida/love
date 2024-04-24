@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T08:44:01.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hmCRNj_l-cSGVCwYAWyt" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T08:47:51.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OCjT6JrLihhCrVCgKPh4" version="24.2.8" type="github">
   <diagram name="第 1 页" id="B_uo7OJ-f0cf3lO3-WNb">
-    <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="cuvuWjdc5wPWUUID254h-9" value="&lt;font color=&quot;#1a1a1a&quot;&gt;底层搭建协议（DSL）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="670" height="21.5" as="geometry" />
         </mxCell>
-        <mxCell id="cuvuWjdc5wPWUUID254h-32" value="公共能力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="158.25" width="65" height="18.5" as="geometry" />
+        <mxCell id="cuvuWjdc5wPWUUID254h-32" value="磐石数智" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="135.75" width="65" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="cuvuWjdc5wPWUUID254h-38" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#82b366;fillColor=#d5e8d4;dashed=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="351" y="370" width="439" height="63" as="geometry" />
@@ -32,31 +32,31 @@
           <mxGeometry x="810" y="290" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-1" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="182" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="163.62" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-6" value="监控管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="219.75" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="202" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-7" value="版本控制" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="257.5" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="240.75" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-9" value="CI/CD" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="296.75" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="278.88" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-10" value="微服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="334.5" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="314" width="65" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-11" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="372.75" width="65" height="21" as="geometry" />
+        <mxCell id="ZQ_SVGyBONcuIK9nk_CX-11" value="流程服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="237.5" y="384.75" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-12" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="412.25" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="428.25" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-14" value="模拟数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="450.5" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="471" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-15" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="237.5" y="491.5" width="65" height="21" as="geometry" />
+          <mxGeometry x="237.5" y="510" width="65" height="21" as="geometry" />
         </mxCell>
         <mxCell id="ZQ_SVGyBONcuIK9nk_CX-17" value="数&lt;div style=&quot;font-size: 12px;&quot;&gt;据&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;层&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#CCCCCC;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="351" y="440" width="30" height="61" as="geometry" />
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="ScNgmdraNkUbZeML3dhD-27" value="关系建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="449.2600000000001" y="210" width="61.87" height="21.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ScNgmdraNkUbZeML3dhD-32" value="迭代模型" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="349" width="65" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
