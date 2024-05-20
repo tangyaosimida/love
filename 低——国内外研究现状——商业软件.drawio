@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T08:43:53.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="ulHHFCY355JCO-27nwmG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T08:59:32.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lUI8QbGlbU_tYKOOMRIW" version="24.4.4" type="github">
   <diagram name="第 1 页" id="jt7RcMar2_y25P8YyJk-">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="330" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用友&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;泛微&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;宜搭&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mendix&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-7" value="&lt;font color=&quot;#333333&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;商业软件&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;面临问题&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;1. 磐石已有数字化成果难与商业软件集成&lt;/p&gt;&lt;p&gt;2. 商业软件实现的业务难以集成到现有项目&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cSYOSb6nE-ytTQf1KXxV-9" value="&lt;span style=&quot;vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;OutSystems&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
