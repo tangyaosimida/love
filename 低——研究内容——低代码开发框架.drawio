@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T08:36:12.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Sd6TGo5--_rJLySnRV3J" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T08:37:34.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Q9jaAgiMd0iHQF3F4jc1" version="24.4.4" type="github">
   <diagram name="第 1 页" id="gqDG2Gp0E2L2Fy4fAPNA">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,20 +7,23 @@
         <mxCell id="3Tfccr52SiQmyFZQaD_a-1" value="打开浏览器" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3Tfccr52SiQmyFZQaD_a-7" value="表单配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3Tfccr52SiQmyFZQaD_a-7" value="数据建模" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3Tfccr52SiQmyFZQaD_a-8" value="流程配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3Tfccr52SiQmyFZQaD_a-8" value="表单配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3Tfccr52SiQmyFZQaD_a-9" value="表格配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3Tfccr52SiQmyFZQaD_a-9" value="流程配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3Tfccr52SiQmyFZQaD_a-10" value="数据建模" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3Tfccr52SiQmyFZQaD_a-10" value="页面配置" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3Tfccr52SiQmyFZQaD_a-11" value="打开浏览器" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3Tfccr52SiQmyFZQaD_a-11" value="测试部署" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3Tfccr52SiQmyFZQaD_a-12" value="功能交付" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
