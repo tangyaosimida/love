@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T02:09:30.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zhfS-iX6XhSHXFKRfmI_" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T02:15:51.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xw8-24AJk_MtzHcaQSiL" version="24.4.6" type="github">
   <diagram name="第 1 页" id="MpXaoYPO6luv1ldQTwg9">
-    <mxGraphModel dx="1256" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="mtS-2dEVLKQGBcQQ_Z3P-4" value="用户登录/注册" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="180" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mtS-2dEVLKQGBcQQ_Z3P-5" value="合同台账、 客户关系管理&lt;div&gt;工程项目管理、工程施工管理、工程文件管理&lt;/div&gt;&lt;div&gt;数据填报&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mtS-2dEVLKQGBcQQ_Z3P-5" value="合同台账、 客户关系管理&lt;div&gt;工程项目管理、工程施工管理、工程文件管理&lt;/div&gt;&lt;div&gt;移民实物指标、&lt;span style=&quot;background-color: initial;&quot;&gt;环境监测数据填报&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="120" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NqTBhjHdbSAGehKnNRe5-1" value="自&lt;div&gt;定&lt;/div&gt;&lt;div&gt;义&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
