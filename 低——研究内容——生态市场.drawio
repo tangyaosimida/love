@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T03:01:41.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JmCwJ9S6Qb8TYxwJOqhB" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T03:03:33.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tGkRZXbzW8yR1z_j6Awm" version="24.4.6" type="github">
   <diagram name="第 1 页" id="MpXaoYPO6luv1ldQTwg9">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="mtS-2dEVLKQGBcQQ_Z3P-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="120" width="340" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NqTBhjHdbSAGehKnNRe5-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;自&lt;div&gt;定&lt;/div&gt;&lt;div&gt;义&lt;/div&gt;&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NqTBhjHdbSAGehKnNRe5-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;自&lt;div&gt;定&lt;/div&gt;&lt;div&gt;义&lt;/div&gt;&lt;/div&gt;&lt;div&gt;资&lt;/div&gt;&lt;div&gt;源&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="80" height="240" as="geometry" />
         </mxCell>
         <mxCell id="NqTBhjHdbSAGehKnNRe5-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;共生、共建、共享&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
@@ -38,9 +38,9 @@
           <mxGeometry x="160" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NqTBhjHdbSAGehKnNRe5-8" value="生态市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="60" width="560" height="40" as="geometry" />
+          <mxGeometry x="160" y="70" width="560" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NqTBhjHdbSAGehKnNRe5-9" value="扩展能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NqTBhjHdbSAGehKnNRe5-9" value="扩展能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NqTBhjHdbSAGehKnNRe5-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;strokeColor=#999999;" edge="1" parent="1">
@@ -49,7 +49,7 @@
             <mxPoint x="639.9999999999998" y="269.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NqTBhjHdbSAGehKnNRe5-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="NqTBhjHdbSAGehKnNRe5-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=none;strokeColor=#A50040;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640.3999999999999" y="200.00000000000003" as="sourcePoint" />
             <mxPoint x="600.0000000000002" y="200.42" as="targetPoint" />
