@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T07:17:39.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="s4lfqUP-xch0cm_328Kr" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T08:46:05.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="thNtEm7t3-Qzlp6fPWhb" version="24.4.7" type="github">
   <diagram name="第 1 页" id="Xk4DTeO2L7ebXj1VIphF">
-    <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6yi-zTWDCZIElaEAg0r-1" value="数据管理与工作流程自动化业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="w6yi-zTWDCZIElaEAg0r-1" value="数据管理与工作流程自动化业务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="880" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
