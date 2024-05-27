@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T09:32:39.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="WyO4yPqj5xxU83QuWIND" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T09:33:47.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3ISkkCHS-eLDyWM2jJ0J" version="24.4.8" type="github">
   <diagram name="第 1 页" id="LY0YPnrHA6B2b3IWMHaJ">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,31 +97,31 @@
         <mxCell id="4g3i7PId28n3mnpLQAkF-34" value="组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="591" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-35" value="区块" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-35" value="基础&lt;div&gt;模板&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="591" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-36" value="模板" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-36" value="业务&lt;div&gt;模板&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="407.5" y="591" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4g3i7PId28n3mnpLQAkF-37" value="组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="487.5" y="591" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-38" value="模板" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-38" value="业务&lt;div&gt;模板&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="567.5" y="591" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-39" value="模板" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-39" value="基础&lt;div&gt;模板&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="651" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-40" value="组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-40" value="数据&lt;div&gt;模型&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="651" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-41" value="模板" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-41" value="基础&lt;div&gt;模板&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="651" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4g3i7PId28n3mnpLQAkF-42" value="组件" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="410" y="651" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4g3i7PId28n3mnpLQAkF-43" value="模板" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
+        <mxCell id="4g3i7PId28n3mnpLQAkF-43" value="业务&lt;div&gt;模板&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontColor=#333333;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="651" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4g3i7PId28n3mnpLQAkF-44" value="&lt;font color=&quot;#ffffff&quot;&gt;...&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#333333;fontStyle=1;shadow=0;" parent="1" vertex="1">
