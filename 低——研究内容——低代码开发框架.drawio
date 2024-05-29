@@ -1,23 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T09:12:28.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bAbCGK_BpydbLK0PtSpC" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T09:13:58.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3Gz3dAWQwUR14NkgX3rj" version="24.4.9" type="github">
   <diagram name="第 1 页" id="gqDG2Gp0E2L2Fy4fAPNA">
-    <mxGraphModel dx="771" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SDCCGMHogAq6qsjDlVBH-2" value="技术选型（基于磐石）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="570" width="480" height="30" as="geometry" />
+          <mxGeometry x="120" y="560" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDCCGMHogAq6qsjDlVBH-4" value="插件机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="540" width="480" height="30" as="geometry" />
+          <mxGeometry x="120" y="530" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDCCGMHogAq6qsjDlVBH-6" value="低代码开发框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="480" height="40" as="geometry" />
+          <mxGeometry x="120" y="410" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SDCCGMHogAq6qsjDlVBH-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="480" height="50" as="geometry" />
+          <mxGeometry x="120" y="450" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SDCCGMHogAq6qsjDlVBH-11" value="公共能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="490" width="90" height="50" as="geometry" />
+          <mxGeometry x="120" y="450" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-12" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="465" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-13" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-14" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="465" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-15" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383.5" y="465" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-16" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="465" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-17" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-18" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SDCCGMHogAq6qsjDlVBH-19" value="监控日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="500" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
