@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T06:17:19.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="V63MW8bSND_Hw_s03B3A" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T06:20:06.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F5COKE-qX6d2KTfX15IL" version="24.4.10" type="github">
   <diagram name="第 1 页" id="3JdLDlZtKlIp8TxT6yqI">
-    <mxGraphModel dx="3695" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="FVGwjlgd87L53xhA5rX--12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;流程设计&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;流程建模&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;流程执行&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;流程监控&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;流程优化&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="640" y="440" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="FVGwjlgd87L53xhA5rX--13" value="流程设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="FVGwjlgd87L53xhA5rX--13" value="流程设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="410" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FVGwjlgd87L53xhA5rX--14" value="原生&lt;div&gt;语法&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
@@ -52,22 +52,22 @@
         <mxCell id="FVGwjlgd87L53xhA5rX--23" value="表格设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="50" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FVGwjlgd87L53xhA5rX--24" value="页面设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="FVGwjlgd87L53xhA5rX--24" value="页面设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="50" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oQvL7M94ZAVs5pC1BtoH-7" value="数据管理&lt;div&gt;与&lt;br&gt;&lt;div&gt;工作流程自动化&lt;/div&gt;&lt;div&gt;业务&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="oQvL7M94ZAVs5pC1BtoH-7" value="数据管理&lt;div&gt;与&lt;br&gt;&lt;div&gt;工作流程自动化&lt;/div&gt;&lt;div&gt;业务&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oQvL7M94ZAVs5pC1BtoH-8" value="数据收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oQvL7M94ZAVs5pC1BtoH-8" value="数据收集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oQvL7M94ZAVs5pC1BtoH-10" value="数据展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oQvL7M94ZAVs5pC1BtoH-10" value="数据展示" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oQvL7M94ZAVs5pC1BtoH-11" value="工作流程自动化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oQvL7M94ZAVs5pC1BtoH-11" value="工作流程自动化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oQvL7M94ZAVs5pC1BtoH-12" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oQvL7M94ZAVs5pC1BtoH-12" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oQvL7M94ZAVs5pC1BtoH-13" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="oQvL7M94ZAVs5pC1BtoH-7" target="oQvL7M94ZAVs5pC1BtoH-10">
