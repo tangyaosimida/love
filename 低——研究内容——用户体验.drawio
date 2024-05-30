@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:38:23.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ieOtDAvdEXHTIqjTAc3d" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:01:42.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="B7ymiKa1zLVI2nsMH2Cq" version="24.4.10" type="github">
   <diagram name="第 1 页" id="8O5h5OScacTJMluupPfA">
-    <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,11 +34,13 @@
         <mxCell id="eqsFsYHSdhdJB8c038Pn-11" value="开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-12" value="编程提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="80" height="40" as="geometry" />
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eqsFsYHSdhdJB8c038Pn-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.05263157894728" y="280" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="440" height="40" as="geometry" />
+          <mxGeometry x="200" y="270" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-16" value="技术支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="80" height="80" as="geometry" />
@@ -49,10 +51,10 @@
         <mxCell id="eqsFsYHSdhdJB8c038Pn-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="380" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-19" value="智能问答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-19" value="辅助问答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-20" value="AIGC(文本生成模型)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-20" value="大语言模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="385" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-22" value="BERT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
@@ -64,14 +66,17 @@
         <mxCell id="eqsFsYHSdhdJB8c038Pn-24" value="ERNIE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="387.5" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-25" value="用户行为路径分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="80" height="120" as="geometry" />
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-25" value="平台优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-26" value="低代码开发标准规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="440" height="80" as="geometry" />
+          <mxGeometry x="200" y="210" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="440" height="40" as="geometry" />
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-27" value="用户行为路径分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-29" value="代码自动生成工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="280" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
