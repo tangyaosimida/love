@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:32:16.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MZMatGM2_oeuxyznUrW1" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:38:23.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ieOtDAvdEXHTIqjTAc3d" version="24.4.10" type="github">
   <diagram name="第 1 页" id="8O5h5OScacTJMluupPfA">
     <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,13 +35,10 @@
           <mxGeometry x="40" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-12" value="编程提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="80" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-13" value="低代码开发标准规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="190" width="440" height="80" as="geometry" />
+          <mxGeometry x="120" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="270" width="440" height="40" as="geometry" />
+          <mxGeometry x="200" y="280" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-16" value="技术支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="80" height="80" as="geometry" />
@@ -52,7 +49,7 @@
         <mxCell id="eqsFsYHSdhdJB8c038Pn-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="380" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-19" value="智能问答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-20" value="AIGC(文本生成模型)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -66,6 +63,15 @@
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-24" value="ERNIE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="387.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-25" value="用户行为路径分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-26" value="低代码开发标准规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="440" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
