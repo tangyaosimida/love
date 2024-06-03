@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T06:07:48.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eSeL8qzpZGnwEtQAA2dB" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T06:15:53.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4p8kVzhJAJ6KpX74xkey" version="24.4.13" type="github">
   <diagram name="第 1 页" id="lHOQz_sZovL-FCDOToCI">
-    <mxGraphModel dx="1320" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,6 +49,9 @@
         <mxCell id="aYST25QZJfzZw-TGcyVV-20" value="Navicate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="400" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYST25QZJfzZw-TGcyVV-21" target="aYST25QZJfzZw-TGcyVV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-21" value="Idea、visual studio、eclipse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="130" height="30" as="geometry" />
         </mxCell>
@@ -64,8 +67,26 @@
         <mxCell id="aYST25QZJfzZw-TGcyVV-26" value="开发环境与部署（nodejs、Java、.NET、K8S、docker&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aYST25QZJfzZw-TGcyVV-27" value="云开发环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYST25QZJfzZw-TGcyVV-27" value="抹平前端、后端、数据库技术壁垒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="545" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-29" value="数据建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="545" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-30" value="数据建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="545" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-31" value="数据建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-32" value="数据建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aYST25QZJfzZw-TGcyVV-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="480" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
