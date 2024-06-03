@@ -1,20 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T01:37:46.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fuRt4GFj6B4guYzGUmqP" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T01:41:28.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="o7xvBR5qeBu2bdXnnbwK" version="24.4.10" type="github">
   <diagram name="第 1 页" id="8O5h5OScacTJMluupPfA">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eqsFsYHSdhdJB8c038Pn-1" value="文档" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="520" width="190" height="70" as="geometry" />
+          <mxGeometry x="40" y="490" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-2" value="用户使用手册、开发者手册、最佳实践、视频教程、低代码开发标准体系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="590" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="40" y="645" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-4" value="AIGC(文本生成模型)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="650" width="190" height="30" as="geometry" />
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-2" value="AIGC辅助文档编写&lt;div&gt;用户使用手册、开发者手册&lt;div&gt;最佳实践、视频教程&lt;/div&gt;&lt;div&gt;低代码开发标准体系&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-9" value="业务人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="250" y="770" width="30" height="60" as="geometry" />
@@ -31,7 +25,7 @@
           <mxGeometry x="300" y="210" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-16" value="技术支持" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="230" y="520" width="140" height="70" as="geometry" />
+          <mxGeometry x="230" y="490" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="440" height="80" as="geometry" />
@@ -39,7 +33,7 @@
         <mxCell id="eqsFsYHSdhdJB8c038Pn-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="645" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eqsFsYHSdhdJB8c038Pn-19" value="辅助问答" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="eqsFsYHSdhdJB8c038Pn-19" value="学而文档——辅助问答" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="590" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eqsFsYHSdhdJB8c038Pn-20" value="学而文档——辅助问答" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -70,7 +64,7 @@
           <mxGeometry x="540" y="685" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TV9XaEOIVPnjF7qLCq7J-3" value="平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="370" y="520" width="140" height="70" as="geometry" />
+          <mxGeometry x="370" y="490" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TV9XaEOIVPnjF7qLCq7J-5" value="操作指引" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="590" width="140" height="40" as="geometry" />
