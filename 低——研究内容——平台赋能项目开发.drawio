@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:34:01.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uQgE3FteTdrZ-tVyfu9t" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:35:05.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FJiIGvFir0HZFmz_DXst" version="24.4.13" type="github">
   <diagram name="第 1 页" id="lHOQz_sZovL-FCDOToCI">
     <mxGraphModel dx="1304" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="aYST25QZJfzZw-TGcyVV-32" value="表格设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aYST25QZJfzZw-TGcyVV-34" value="低代码开发平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="aYST25QZJfzZw-TGcyVV-34" value="低代码开发模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aYST25QZJfzZw-TGcyVV-8" target="aYST25QZJfzZw-TGcyVV-9">
@@ -130,7 +130,7 @@
         <mxCell id="aYST25QZJfzZw-TGcyVV-62" value="逻辑整合" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="180" y="440" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aYST25QZJfzZw-TGcyVV-63" value="当前开发模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="aYST25QZJfzZw-TGcyVV-63" value="源码开发模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="529" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-64" value="生态市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
