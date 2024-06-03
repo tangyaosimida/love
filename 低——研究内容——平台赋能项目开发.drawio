@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:29:12.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Sq_xMmlin58kUBnz5kgB" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:29:45.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rG-BUNzNx78xWMkv-R6t" version="24.4.13" type="github">
   <diagram name="第 1 页" id="lHOQz_sZovL-FCDOToCI">
-    <mxGraphModel dx="1304" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1593" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="180" y="360" width="520" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-3" value="项&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;目&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="40" height="80" as="geometry" />
+          <mxGeometry x="20" y="360" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-4" value="数据管理业务&lt;div&gt;/工作流程自动化&lt;/div&gt;&lt;div&gt;业务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="360" width="60" height="80" as="geometry" />
+          <mxGeometry x="90" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="559" width="480" height="80" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="200" y="529" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-64" value="生态市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="210" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-66" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#3399FF;" edge="1" parent="1" source="aYST25QZJfzZw-TGcyVV-60" target="aYST25QZJfzZw-TGcyVV-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -142,6 +142,7 @@
             <mxPoint x="450" y="420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="400" />
+              <mxPoint x="160" y="360" />
               <mxPoint x="160" y="310" />
               <mxPoint x="100" y="310" />
             </Array>
