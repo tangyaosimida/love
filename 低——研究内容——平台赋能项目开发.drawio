@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T02:32:51.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XJJAyBc04l3kL-SMglau" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T02:35:29.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qPmsO6QiCkDjM2Yv4uE5" version="24.4.13" type="github">
   <diagram name="第 1 页" id="lHOQz_sZovL-FCDOToCI">
     <mxGraphModel dx="989" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,16 +52,16 @@
         <mxCell id="aYST25QZJfzZw-TGcyVV-21" value="Idea、visual studio、eclipse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aYST25QZJfzZw-TGcyVV-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;React、Webpack、Antd、&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYST25QZJfzZw-TGcyVV-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;React、Webpack、Antd、Redux、Mobx、Formily...&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aYST25QZJfzZw-TGcyVV-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aYST25QZJfzZw-TGcyVV-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYST25QZJfzZw-TGcyVV-25" value="人大金仓、达梦、高斯、Oracle、Mysql、MongoDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aYST25QZJfzZw-TGcyVV-26" value="开发环境搭建（nodejs、Java、.NET&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aYST25QZJfzZw-TGcyVV-26" value="开发环境搭建（Git、nodejs、Java、.NET&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
